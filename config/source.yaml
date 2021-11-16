@@ -11,7 +11,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://qiaomenzhuanfx.netlify.app
+    url: https://qiaomenzhuanfx.netlify.com/
 
 # 网页模糊抓取
 - type: webfuzz
