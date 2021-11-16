@@ -11,7 +11,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+    url: https://qiaomenzhuanfx.netlify.app
 
 # 网页模糊抓取
 - type: webfuzz
